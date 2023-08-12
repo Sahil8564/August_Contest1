@@ -1,0 +1,11 @@
+* {
+    margin: 3px;
+  padding: 3px;
+}
+
+.Second>img
+{
+    width:25vw;
+    height:40vh;
+
+}
